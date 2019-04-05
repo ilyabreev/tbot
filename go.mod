@@ -1,3 +1,3 @@
-module github.com/yanzay/tbot
+module github.com/ilyabreev/tbot
 
 go 1.12
